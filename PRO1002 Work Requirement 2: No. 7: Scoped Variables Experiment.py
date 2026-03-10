@@ -1,3 +1,5 @@
+# Exercise 7: Scoped Variables Experiment
+
 score = 0
 
 def calculate_bonus():
